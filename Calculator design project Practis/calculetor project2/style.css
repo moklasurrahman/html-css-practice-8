@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(107, 110, 117);
+}
+h1{
+    
+    text-align: center;
+    text-shadow: 0 2px 6px rgb(255, 255, 255);
+}
+.cl-all{
+    
+    margin: 0 auto;
+    width: 525px;
+    height: 335;
+    margin-top: 10px;
+    text-align: center;
+    padding: 0 5px;
+    box-shadow: 0 2px 7px black;
+    transition: 0.5s;
+    font-size: 0px;
+
+}
+.cl-all:hover{
+    box-shadow: 0 5px 20px black;
+}
+
+.display .display-control{
+    width: 515px;
+    height: 65px;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: right;
+    letter-spacing: 3px;
+    margin-top: 10;
+    border:4px solid #150485;
+    
+    
+    
+}
+.control_allButton {
+    
+    
+}
+
+.butn{
+    width: 70px;
+    height: 45px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+    margin: 2px;
+    color:#ffffff;
+    
+    
+    
+}
+.color{
+    background-color:  #315c72;
+}
+.color_reed{
+    background-color: #8B0000;
+}
+.color_3{
+    background-color:#b18888 ;
+}
+.color_4{
+    background-color: #132743; ;
+}
+.color_5{
+    background-color: #42777e ;
+}
+.butn:hover{
+    background-color:rgb(6, 164, 255)
+    
+}

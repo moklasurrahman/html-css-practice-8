@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.content{
+    background-color:rgb(146, 146, 245);
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.div1{
+    
+}
+
+li{
+    float: left;
+    padding: 20px;
+    
+    
+}
+.logo{
+    height: 60px;
+    width: 60px;
+}
+.clr-div{
+    clear: both;
+}
+
